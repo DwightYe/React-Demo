@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-import React from "react";
-
-export default class UCenter extends React.Component {
-  render() {
-    return (
-      <div>
-           UCenter
-      </div>
-    );
-  }
-}
-=======
 import React from "react"
 
 const NotFound = (props) => {
@@ -25,4 +12,3 @@ const NotFound = (props) => {
 }
 
 export default NotFound
->>>>>>> 112dd9cbcf054fab0ca7244d7ba226fbe6910d05
