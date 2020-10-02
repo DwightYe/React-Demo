@@ -1,14 +1,4 @@
 import React from "react"
-<<<<<<< HEAD
-
-export default class Mine extends React.Component{
-    render(){
-        return(
-            <div>Mine</div>
-        )
-    }
-}
-=======
 import querystring from "querystring"
 import MyDemo from "./MineDemo"
 
@@ -37,4 +27,3 @@ const Mine = (props) =>{
 }
 
 export default Mine
->>>>>>> 112dd9cbcf054fab0ca7244d7ba226fbe6910d05
