@@ -48,7 +48,7 @@ export default class Parent extends React.Component {
         console.log("parent -> render");
         return (<div>
             Parent : {this.state.count}
-            {/* <Child num = { this.state.count }/> */}
+            <Child num = { this.state.count }/>
             <Child1 num = { 1 }/>
         </div>)
     }
